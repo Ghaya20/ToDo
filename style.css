@@ -1,0 +1,25 @@
+.head{
+    color:goldenrod;
+    text-align: center;
+    font-family:Playwrite AU VIC;
+    font-weight: 700;
+}
+.whole{
+    background-image: url(https://ik.imagekit.io/gaia/todo/old-grunge-style-background-shades-blue_1048-18613.jpg_t=st=1719251868~exp=1719255468~hmac=26bef2abc743f6fed41e846b98b8571eb4f86766968c85246f47e16d952cc0dd&w=826?updatedAt=1719251998205);
+    height:1000px;
+}
+.list{
+    color:rgb(177, 130, 11);
+    text-align: center;
+    font-family:Playwrite AU VIC;
+}
+.box{
+    text-align:center ;
+    padding: 1px;
+    width: 500px;
+    margin-left: 500px;
+    margin-bottom: 0px;
+    text-decoration:underline;
+    background-color: bisque;
+    border-radius: 5px;
+}
